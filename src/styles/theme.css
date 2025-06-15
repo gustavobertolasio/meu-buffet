@@ -1,0 +1,19 @@
+@theme {
+  --color-dark: #212121;
+  --color-dark-translucent: #212121e6;
+
+  --color-primary: #ffffff;
+  --color-secondary: #b0b0b0;
+
+  --color-accent: oklch(0.72 0.15 200); /* Azul vibrante */
+  --color-accent-hover: oklch(0.78 0.15 200); /* mais claro */
+  --color-secondary: oklch(0.68 0.14 340); /* Rosa elegante */
+  --color-muted: #b0b0b0;
+
+  --color-border: #2e2e2e;
+  --color-hover: #2d2d2d;
+
+  --color-success: oklch(0.72 0.16 142); /* Verde agradável */
+  --color-error: oklch(0.7 0.15 25); /* Vermelho suave */
+  --color-warning: oklch(0.85 0.2 75); /* Laranja alerta */
+}
