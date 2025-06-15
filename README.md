@@ -1,4 +1,4 @@
-# 🎉 Buffet Manager
+# 🎉 Meu buffet
 
 SaaS para gerenciamento de buffets com múltiplas marcas, unidades e funcionalidades administrativas como controle de fornecedores, eventos, calendários, propostas e mais.
 
